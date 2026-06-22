@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/prian dika-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prian dika-san" height="30" width="40" /></a>
-<a href="https://instagram.com/moesakka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moesakka" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/51273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="51273" height="30" width="40" /></a>
+<a href="https://fb.com/prian.dika.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prian.dika.16" height="30" width="40" /></a>
+<a href="https://instagram.com/moesakka00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moesakka00" height="30" width="40" /></a>
+<a href="https://discord.gg/YZvz42qu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YZvz42qu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
